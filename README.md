@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DebuggingaHopper</h1>
-<h3 align="center">A passionate Mobile App Developer & Database Manager</h3>
+<h1 align="center">Greetings 👋, I'm DebuggingaHopper</h1>
+<h3 align="center">A passionate Mobile App Developer, Software Engineer & Database Manager</h3>
 
 # 💫 About Me:
 -🔭 I’m currently working on **Internal Tools and Personal projects**<br><br>- 🌱 I’m currently learning **back-end engineering, reverse engineering, and more about database management**
