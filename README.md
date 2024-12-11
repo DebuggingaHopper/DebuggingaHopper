@@ -1,5 +1,5 @@
 <h1 align="center">Greetings I'm DebuggingaHopper</h1>
-<h3 align="center">Software Engineering specilaizing more towards DevOps</h3>
+<h3 align="center">Software Engineer specilaizing more towards DevOps</h3>
 
 - 🔭 I’m currently working on **An internal Tool utilizing C# .NET that will reduce workload by automating trivial tasks and reducing user downtime.**
 - Enjoy looking into different libraries, and enabling technologies to make even the simplest tasks more efficient.
