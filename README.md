@@ -17,13 +17,13 @@
 
 I am a Software Operations Engineer whose specialization has been as a DevOps Operator who enjoys solving even the most niche problems during free time
 
+- 👨‍💻 Recent projects are internally hosted on a private Gitea server, so other than a blog site I am developing, most repos are dated, however, planning to commit the projects worked on going further.
+
 - 🔭 Enjoy creating internal tools utilizing C# .NET, alongside looking more into containerization & Database management
 
 - :thought_balloon: Tend to place my projects, approach, and thought process in technical documents.
   
 - :speech_balloon: Learning about the available libraries, APIs, and SDKs is always enjoyable, especially when finding a new project to work on.
-
-- 👨‍💻 Recent projects are internally hosted on a private Gitea server, so other than a blog site I am developing, most repos are dated, however, planning to commit the projects worked on going further.
 ---
 <p align="left">
 </p>
