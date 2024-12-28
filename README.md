@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngwdG1iN3VuaDl1aHR0dXZ4b3kwdnV6cDZqeWRsYXJ0NWw3ZzJkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRrdW5ndGViOXN2c20xdDc4b3hkMGd5cW51bmpkb25hMGt5Zmh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ex1w4IdYJDfa0/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">Greetings I'm DebuggingaHopper</h1>
