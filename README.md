@@ -15,13 +15,13 @@
 
 <h3 align="center">ABOUT ME</h3>
 
-I am a DevOps Operator who enjoys solving even the most niche problems during my free time
+I am a Software Operations Engineer whose specialization has been as a DevOps Operator who enjoys solving even the most niche problems during free time
 
 - 🔭 Enjoy creating internal tools utilizing C# .NET, alongside looking more into containerization & Database management
 
 - :thought_balloon: Tend to place my projects, approach, and thought process in technical documents.
   
-- :speech_balloon: Learning about the available libraries, APIS, and SDKs is always enjoyable to find what new project to work on.
+- :speech_balloon: Learning about the available libraries, APIS, and SDKs is always enjoyable, especially when finding a new project to work on.
 
 - 👨‍💻 Most of my projects tend to be internally hosted on my private Gitea server, so other than a blog site I am developing, most projects now on here are slightly different.
 ---
