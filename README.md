@@ -37,6 +37,7 @@ I am a DevOps Operator who enjoys solving even the most niche problems during my
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/" target="_blank" rel="noreferrer"> <img src="https://store.mega.com/_modules/database.design.oracle19c/icon.png?t=638709485731516845" alt="Oracle" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="obsidian" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left"> Familiar with:</h3>
