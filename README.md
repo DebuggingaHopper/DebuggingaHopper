@@ -23,7 +23,7 @@ I am a Software Operations Engineer whose specialization has been as a DevOps Op
   
 - :speech_balloon: Learning about the available libraries, APIs, and SDKs is always enjoyable, especially when finding a new project to work on.
 
-- 👨‍💻 Most of my projects tend to be internally hosted on my private Gitea server, so other than a blog site I am developing, most projects now on here are slightly different.
+- 👨‍💻 Recent projects are internally hosted on a private Gitea server, so other than a blog site I am developing, most repos are dated, however, planning to commit the projects worked on going further.
 ---
 <p align="left">
 </p>
