@@ -69,5 +69,4 @@ I am a Software Operations Engineer whose specialization has been as a DevOps Op
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DebuggingaHopper&theme=dark&hide_border=false)<br/>
 ![DebuggingaHopper's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebuggingaHopper&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebuggingaHopper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
