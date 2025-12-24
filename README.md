@@ -229,8 +229,7 @@ Security:          ███████████████░░░░░ 
 
 ### 📊 GitHub Activity
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DebuggingaHopper&theme=dark&hide_border=false)
-![DebuggingaHopper's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebuggingaHopper&show_icons=true&theme=dark)
+[![DebuggingaHopper GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DebuggingaHopper&show_icons=true&theme=algolia)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
