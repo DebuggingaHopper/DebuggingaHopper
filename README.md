@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Nelson Alvarez</h1>
-<h3 align="center">System Administrator & Integration Engineer</h3>
+<h3 align="center">Integration Engineer & Healthcare Application Analyst</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nelsonjalvarez-dev">
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Role-Lead_System_Administrator-success?style=for-the-badge" alt="Current Role"/>
+  <img src="https://img.shields.io/badge/Current_Role-Integration_Engineer-success?style=for-the-badge" alt="Current Role"/>
   <img src="https://img.shields.io/badge/Experience-3_Years-blue?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Specialization-Healthcare_IT-critical?style=for-the-badge" alt="Specialization"/>
 </div>
@@ -22,48 +22,38 @@
 
 ### 👨‍💻 About Me
 
-I'm a **System Administrator & Integration Engineer** specializing in healthcare IT infrastructure and Epic HL7 integrations. I manage Windows Server/Oracle environments and develop XSLT-based interfaces for 50+ healthcare facilities.
+I'm an **Integration Engineer & Application Analyst** specializing in Epic HL7 integrations and pharmacy automation systems. I develop and maintain XSLT-based interfaces while providing tier 1-3 application support for FDA-regulated chemotherapy compounding systems across 50+ healthcare facilities.
 
 **What I do:**
-- 🏥 Design and deploy Epic HL7 interfaces (inbound/outbound via Mirth Connect)
-- 🖥️ Architect Windows Server and Oracle Database infrastructure
-- 🔐 Implement Active Directory/LDAP integrations for enterprise authentication
-- 🛡️ Maintain HIPAA compliance and security remediation for FDA-regulated systems
-- 📊 Build internal automation tools using C# .NET and PowerShell
+- 🏥 Design and maintain 27 production Epic HL7 interfaces (15 inbound, 12 outbound) via Mirth Connect
+- 🔧 Provide tier 1-3 technical support for C# .NET pharmacy automation applications
+- 🤝 Lead weekly customer touchbases with pharmacy managers, pharmacists, and hospital IT teams
+- 🔐 Manage Windows Server/Oracle Database infrastructure supporting production systems
+- 🛡️ Maintain HIPAA compliance and security remediation for FDA-regulated medical device systems
+- 🚀 Build internal automation tools using C# .NET and PowerShell
 
 **Current Focus:**
-- Leading interface development for 13+ custom Epic integrations
-- Managing infrastructure deployments and server migrations
-- Automating deployment workflows and configuration management
+- Managing full lifecycle for Epic HL7 interface implementations (requirements → deployment → support)
+- Coordinating with clinical teams to optimize pharmacy workflows and troubleshoot application issues
+- Leading technical migrations and infrastructure deployments
+- Developing automation solutions to improve operational efficiency
 
-**Career Milestone:** Promoted from intern to Lead System Administrator in 10 months 🚀
+**Career Milestone:** Promoted from intern to Lead Integration Engineer in 10 months 🚀
 
 ---
 
 ### 🛠️ Technical Stack
 
 <details>
-<summary><b>🖥️ Infrastructure & Databases</b> (Click to expand)</summary>
-
-| Technology | Proficiency | Use Case |
-|------------|-------------|----------|
-| **Windows Server 2016/2021** | ⭐⭐⭐⭐⭐ | Primary server environment for 50+ healthcare facilities |
-| **Oracle Database 12c/19c** | ⭐⭐⭐⭐ | Database management, patching (OPatch), performance tuning |
-| **Active Directory/LDAP** | ⭐⭐⭐⭐ | Enterprise authentication, security group integration |
-| **VMware/Hyper-V** | ⭐⭐ | Virtual machine management for test/prod environments |
-
-</details>
-
-<details>
 <summary><b>🔌 Integration & Messaging</b> (Click to expand)</summary>
 
 | Technology | Proficiency | Use Case |
 |------------|-------------|----------|
-| **HL7 v2.x** | ⭐⭐⭐⭐⭐ | Healthcare messaging standard for Epic integrations |
-| **XSLT** | ⭐⭐⭐⭐⭐ | Primary language for interface transformations |
-| **Mirth Connect** | ⭐⭐⭐⭐ | Channel configuration for bi-directional messaging |
-| **Epic Systems** | ⭐⭐⭐⭐ | Integration with Epic HIS (RXE, ORM, ORU messages) |
-| **REST/SOAP APIs** | ⭐⭐⭐⭐ | ASP.NET web service brokers, API integrations |
+| **HL7 v2.x** | ⭐⭐⭐⭐⭐ | Healthcare messaging standard for Epic integrations (RDE, DFT, ADT) |
+| **XSLT** | ⭐⭐⭐⭐⭐ | Primary language for HL7 message transformations |
+| **Mirth Connect** | ⭐⭐⭐⭐⭐ | Interface engine for bi-directional Epic communication |
+| **Epic Systems** | ⭐⭐⭐⭐ | Integration with Epic EMR (RXE, ORM, ORU messages) |
+| **REST/SOAP APIs** | ⭐⭐⭐⭐ | ASP.NET web service integration, Airtable REST API |
 
 </details>
 
@@ -72,11 +62,22 @@ I'm a **System Administrator & Integration Engineer** specializing in healthcare
 
 | Technology | Proficiency | Use Case |
 |------------|-------------|----------|
-| **C# / .NET Framework** | ⭐⭐⭐⭐ | Internal tools, automation utilities, WinForms applications |
-| **PowerShell** | ⭐⭐⭐⭐⭐ | Deployment automation, system configuration, scripting |
-| **PL/SQL / T-SQL** | ⭐⭐⭐ | Database queries, stored procedures, data manipulation |
-| **Git/GitLab** | ⭐⭐⭐⭐ | Version control for interface configurations |
-| **TeamCity** | ⭐⭐⭐ | CI/CD pipelines for automated builds and deployments |
+| **C# / .NET Framework** | ⭐⭐⭐⭐ | Application support, internal tools, WinForms utilities |
+| **PowerShell** | ⭐⭐⭐⭐⭐ | Deployment automation, infrastructure scripting, batch operations |
+| **PL/SQL** | ⭐⭐⭐ | Oracle database queries, data manipulation |
+| **Git/GitLab** | ⭐⭐⭐⭐ | Version control for interface configurations and code |
+| **TeamCity** | ⭐⭐⭐ | CI/CD pipelines for automated builds |
+
+</details>
+
+<details>
+<summary><b>🖥️ Infrastructure & Databases</b> (Click to expand)</summary>
+
+| Technology | Proficiency | Use Case |
+|------------|-------------|----------|
+| **Windows Server 2016/2019** | ⭐⭐⭐⭐ | Application infrastructure for 50+ healthcare facilities |
+| **Oracle Database 12c/19c** | ⭐⭐⭐⭐ | Database management, OPatch patching, performance monitoring |
+| **Active Directory/LDAP** | ⭐⭐⭐⭐ | Enterprise authentication integration for pharmacy systems |
 
 </details>
 
@@ -85,10 +86,10 @@ I'm a **System Administrator & Integration Engineer** specializing in healthcare
 
 | Technology | Proficiency | Use Case |
 |------------|-------------|----------|
-| **Tenable/Nessus** | ⭐⭐⭐⭐ | Vulnerability scanning and remediation planning |
-| **ELK Stack** | ⭐⭐⭐ | Elasticsearch/Kibana for application monitoring |
-| **FastReport** | ⭐⭐⭐⭐ | Label/report template customization |
+| **Tenable/Nessus** | ⭐⭐⭐⭐ | Vulnerability scanning and quarterly remediation planning |
 | **HIPAA Compliance** | ⭐⭐⭐⭐ | Healthcare data security and privacy standards |
+| **ELK Stack** | ⭐⭐⭐ | Elasticsearch/Kibana for application log analysis |
+| **FastReport** | ⭐⭐⭐⭐ | Label and report template customization |
 
 </details>
 
@@ -96,52 +97,52 @@ I'm a **System Administrator & Integration Engineer** specializing in healthcare
 
 ### 🚀 Public Projects
 
-> **Note:** Most recent work is on private Gitea server for proprietary projects. Public repos showcase completed personal/academic projects.
+> **Note:** Most recent work is on private repositories for proprietary integration and application projects. Public repos showcase completed personal/academic projects.
 
 #### **🔧 NEST** - Infrastructure Deployment Automation
-> **Status:** ✅ Complete | **Last Updated:** 10/19/2025
+> **Status:** ✅ Complete | **Last Updated:** 10/19/2024
 
 PowerShell module automating standardized directory scaffolding for interface repositories and backup folders during platform upgrades and database migrations.
 
 **Key Features:**
-- Automated folder structure generation for repository deliverables
-- Backup directory creation for platform upgrades
-- Centralized, reusable module replacing one-off scripts
+- Automated folder structure generation for interface deployment artifacts
+- Backup directory creation for platform upgrades and Oracle migrations
+- Centralized, reusable module replacing manual directory setup
 
 **Tech Stack:** PowerShell  
-**Personal Note:** *Built to solve tedious manual directory setup - saves ~15 minutes per deployment*
+**Personal Note:** *Saves ~15 minutes per deployment across 50+ facilities. Small tool, big time savings.*
 
 [📁 View Repository](https://github.com/DebuggingaHopper/NEST) | [📖 Documentation](https://github.com/DebuggingaHopper/NEST/blob/main/README.md)
 
 ---
 
 #### **📊 SPOT** - Support Performance & Operations Tracker
-> **Status:** ✅ Complete | **Last Updated:** 09/01/2025
+> **Status:** ✅ Complete | **Last Updated:** 09/01/2024
 
 C# console application integrating with Airtable REST API to automate weekly helpdesk call log exports, eliminating manual reporting process.
 
 **Key Features:**
-- Automated Airtable REST API integration
+- Automated Airtable REST API integration for call log data extraction
 - Weekly scheduler via Windows Power Automate
 - Email delivery to team leads with formatted reports
 
 **Tech Stack:** C# .NET, Airtable REST API, Windows Power Automate  
-**Personal Note:** *Reduced weekly reporting time from 30 minutes to automated. Good example of API integration and task automation*
+**Personal Note:** *Built to eliminate 30 minutes of manual reporting every Friday. Solid example of practical API integration.*
 
 ---
 
 #### **🖨️ Printer Queue Manager**
-> **Status:** ✅ Complete | **Last Updated:** 11/23/2025
+> **Status:** ✅ Complete | **Last Updated:** 11/23/2024
 
-WinForms utility automating printer queue clearing for Zebra label printers in pharmacy compounding workflows, deployed via TeamCity CI/CD pipeline.
+WinForms utility automating printer queue clearing for Zebra label printers in pharmacy compounding workflows. Reduced manual intervention by 80%.
 
 **Key Features:**
-- One-click printer queue clearing for Zebra printers
-- CI/CD pipeline with automated NUnit testing
-- MSI installer for easy deployment across sites
+- One-click printer queue clearing for Zebra printers used in pharmacy operations
+- CI/CD pipeline with automated NUnit testing via TeamCity
+- MSI installer for easy deployment across customer sites
 
 **Tech Stack:** C# .NET, WinForms, TeamCity, NUnit  
-**Personal Note:** *Simple but effective - common production issue solved with straightforward tool. Good CI/CD practice implementation*
+**Personal Note:** *Simple problem, effective solution. Common production issue solved with straightforward tool. Good practice for CI/CD implementation.*
 
 ---
 
@@ -150,18 +151,20 @@ WinForms utility automating printer queue clearing for Zebra label printers in p
 > Projects currently in development (not yet published)
 
 <details>
-<summary><b>📝 Blog/Portfolio Site</b></summary>
+<summary><b>📝 Technical Blog/Portfolio Site</b></summary>
 
-**Purpose:** Technical blog and portfolio site showcasing projects and documenting solutions to interesting problems
+**Purpose:** Technical blog and portfolio site showcasing projects and documenting healthcare IT integration solutions
 
-**Tech Stack:** Nest.JS, MDX
+**Tech Stack:** Next.js, MDX  
 **Status:** Planning phase  
-**Target Completion:** TBD
+**Target Completion:** Q1 2025
 
-**Personal Notes:**
-- Will host on GitHub Pages
-- Current Posts: Story about the creation of Printer Queue Manager **NOTE: Those blogs need to be updated with refactored code** 
-- Content ideas: Interface troubleshooting case studies, PowerShell automation tips, Oracle patching guides
+**Planned Content:**
+- Epic HL7 integration troubleshooting case studies
+- Mirth Connect configuration guides
+- PowerShell automation scripts for healthcare IT
+- XSLT transformation patterns and best practices
+- Application support workflows for pharmacy systems
 
 </details>
 
@@ -171,36 +174,38 @@ WinForms utility automating printer queue clearing for Zebra label printers in p
 
 #### **Current Expertise** (What I use daily)
 ```
-Infrastructure:    ████████████████████ 100%  Windows Server, Oracle, AD/LDAP
-Integration:       ████████████████████ 100%  HL7, XSLT, Mirth, Epic
-Development:       ████████████████░░░░  80%  C# .NET, PowerShell
+Integration:       ████████████████████ 100%  Epic HL7, XSLT, Mirth Connect
+Application:       ████████████████████ 100%  Tier 1-3 support, workflow optimization
+Development:       ████████████████░░░░  80%  C# .NET, PowerShell scripting
+Infrastructure:    ███████████████░░░░░  75%  Windows Server, Oracle DB, AD/LDAP
 Security:          ███████████████░░░░░  75%  Vulnerability mgmt, HIPAA compliance
 ```
 
 #### **Currently Learning**
-- 📖 Advanced Oracle performance tuning
-- 📖 Kubernetes and containerization (Docker)
-- 📖 Powershell for automation scripting
-- 📖 C# Solutions to auotmate tasks
-- 📖 Azure cloud infrastructure
+- 📖 FHIR (Fast Healthcare Interoperability Resources) - Next generation of HL7
+- 📖 Python for healthcare data analysis and log parsing
+- 📖 Advanced Mirth Connect JavaScript transformations
+- 📖 React for building internal dashboards
 
 #### **Want to Learn**
-- [ ] Epic Bridges Certification
-- [ ] Advanced Mirth Connect administration
-- [ ] Infrastructure as Code (Terraform/Ansible)
-- [ ] Advanced PowerShell DSC
+- [ ] Epic Bridges Certification (formal Epic integration training)
+- [ ] FHIR Proficiency Certification (hl7.org)
+- [ ] Advanced PowerShell DSC for infrastructure automation
+- [ ] Terraform for infrastructure as code
 
 ---
 
 ### 📈 Experience Timeline
 ```
-2024-Present  │ Lead System Administrator - Loccioni USA
-              │ ├─ Managing 50+ healthcare facility infrastructures
-              │ ├─ Sole technical owner for 13+ Epic HL7 integrations
-              │ └─ Leading AD/LDAP integration projects
+2024-Present  │ Integration Engineer - Loccioni USA
+              │ ├─ Managing 27 Epic HL7 interfaces across 15 hospital customers
+              │ ├─ Providing tier 1-3 application support for 50+ facilities
+              │ ├─ Leading customer touchbases and technical coordination
+              │ └─ Infrastructure management and HIPAA compliance
               │
-2023-2024     │ System Administrator Intern → Lead (Promoted in 10 months)
-              │ ├─ Built bi-directional HL7 interfaces
+2023-2024     │ Integration Engineer Intern → Lead (Promoted in 10 months)
+              │ ├─ Built bi-directional HL7 interfaces for Epic integration
+              │ ├─ Transitioned from helpdesk to integration engineering
               │ ├─ Infrastructure deployments (80% of annual implementations)
               │ └─ Initiated vulnerability remediation program
               │
@@ -212,12 +217,13 @@ Security:          ███████████████░░░░░ 
 
 ### 🏆 Key Achievements
 
-- 🎯 **Rapid Promotion:** Intern → Lead System Administrator in 10 months
-- 🏥 **Scale:** Managing infrastructure/integrations for 50+ healthcare facilities
-- 🔧 **Ownership:** Sole technical owner for 13+ custom Epic integrations
-- 🚀 **Project Leadership:** Led ARIA-to-Epic migration across multiple hospital implementations
-- 🔐 **Security:** Established quarterly vulnerability remediation program
-- 📦 **DevOps:** Built centralized Git repository system for American market
+- 🎯 **Rapid Promotion:** Intern → Lead Integration Engineer in 10 months
+- 🏥 **Scale:** Managing integrations and application support for 50+ healthcare facilities
+- 🔧 **Technical Ownership:** Sole owner of 27 production Epic HL7 interfaces
+- 🚀 **Zero Downtime Migration:** Led ARIA-to-Epic interface migration across multiple hospitals
+- 🔐 **Security Leadership:** Established quarterly vulnerability remediation program
+- 📦 **Version Control:** Built centralized Git repository system for interface configurations
+- 🤝 **Customer Success:** Lead weekly touchbases with pharmacy and hospital IT teams
 
 ---
 
@@ -236,7 +242,7 @@ Security:          ███████████████░░░░░ 
 |----------|------|---------|
 | 💼 **LinkedIn** | [nelson-alvarez](https://www.linkedin.com/in/nelsonjalvarez-dev) | Professional networking |
 | 📧 **Email** | njalvarez.dev@gmail.com | Direct contact |
-| 📝 **Technical Blog** | *In Development* | Technical writing & tutorials |
+| 📝 **Technical Blog** | *In Development* | Healthcare IT integration tutorials |
 
 </div>
 
@@ -247,19 +253,19 @@ Security:          ███████████████░░░░░ 
 > **For Future Me:** How this profile is organized
 
 #### **Public Repositories:**
-- ✅ **Completed projects** ready for showcase
+- ✅ **Completed projects** ready for showcase (NEST, SPOT, Printer Queue Manager)
 - ✅ Each has comprehensive README with setup instructions
 - ✅ Code is clean, commented, and production-ready
 
-#### **Private Repositories (Gitea):**
+#### **Private Repositories:**
 - 🔒 **Work-in-progress** projects
-- 🔒 **Proprietary** work for Loccioni
+- 🔒 **Proprietary** integration and application work
 - 🔒 **Experimental** code and prototypes
 
 #### **Repository Naming Convention:**
 - `tool-name` - Production tools (e.g., `nest`, `spot`, `printer-queue-manager`)
-- `project-name` - Personal projects
-- `study-topic` - Learning projects/experiments
+- `project-name` - Personal projects and learning exercises
+- `study-topic` - Learning projects and experiments
 
 ---
 
@@ -267,29 +273,40 @@ Security:          ███████████████░░░░░ 
 
 > **For Future Me:** Track progress and goals
 
-#### **2024 Goals:**
-- [x] Establish GitHub presence with professional README
-- [x] Publish 3 completed projects (NEST, SPOT, Printer Queue Manager)
-- [ ] Launch technical blog/portfolio site
+#### **2024 Accomplishments:**
+- [x] Established GitHub presence with professional README
+- [x] Published 3 completed projects (NEST, SPOT, Printer Queue Manager)
+- [x] Managed 27 production Epic HL7 interfaces
+- [x] Provided tier 1-3 support across 50+ facilities
+- [x] Led successful ARIA-to-Epic migration with zero downtime
+
+#### **2025 Goals:**
+- [ ] Launch technical blog/portfolio site (Q1 2025)
+- [ ] Write 6 technical blog posts on healthcare IT integration
+- [ ] Complete FHIR fundamentals training
 - [ ] Contribute to open-source healthcare IT projects
-- [ ] Write 4 technical blog posts
+- [ ] Obtain Epic Bridges certification (if employer sponsors)
+- [ ] Build Python-based log analysis tool for Mirth Connect
+- [ ] Secure new role with focus on Epic integration and application analysis
+
+#### **Blog Post Ideas:**
+- "From Helpdesk to Integration Engineer: My 10-Month Journey"
+- "Epic HL7 Integration 101: A Practical Guide to RDE Messages"
+- "Troubleshooting Mirth Connect: Common Issues and Solutions"
+- "XSLT for Healthcare: Transforming HL7 Messages"
+- "Managing 50+ Production Systems: Lessons Learned"
+- "Application Support in Healthcare: Beyond Just Fixing Bugs"
+- "Building Automation Tools for Healthcare IT Operations"
 
 #### **Project Publishing Checklist:**
 Before publishing any project to GitHub, ensure:
 - [ ] Code is clean and well-commented
-- [ ] Comprehensive README with setup instructions
-- [ ] Remove any proprietary/sensitive information
-- [ ] Add appropriate license
+- [ ] Comprehensive README with setup instructions, use cases, and examples
+- [ ] Remove any proprietary/sensitive information (customer names, IP addresses)
+- [ ] Add appropriate license (MIT for open source)
 - [ ] Include screenshots/demo if applicable
 - [ ] Test on fresh environment to ensure reproducibility
-
-#### **Blog Post Ideas:**
-- "From Intern to Lead: How I Got Promoted in 10 Months"
-- "HL7 Integration 101: A Practical Guide to Epic Interfaces"
-- "PowerShell Automation for System Administrators"
-- "Managing 50+ Production Servers: Lessons Learned"
-- "XSLT for Healthcare Integration: Tips and Tricks"
-- "Building CI/CD Pipelines for Healthcare Applications"
+- [ ] Add project to this README with description and link
 
 ---
 
@@ -297,19 +314,40 @@ Before publishing any project to GitHub, ensure:
 
 > **Why I document everything:**
 
-- 📚 **Knowledge Retention:** Future me will forget implementation details
-- 🤝 **Knowledge Sharing:** Help others facing similar problems
+- 📚 **Knowledge Retention:** Future me will forget implementation details (especially XSLT logic!)
+- 🤝 **Knowledge Sharing:** Help others facing similar healthcare IT integration challenges
 - 💼 **Professional Portfolio:** Demonstrate capabilities to potential employers
-- 🔍 **Problem Solving:** Writing forces clarity of thought
-- 📈 **Career Growth:** Track progression and learning
+- 🔍 **Problem Solving:** Writing forces clarity of thought and catches edge cases
+- 📈 **Career Growth:** Track progression from intern to lead engineer
+- 🏥 **Patient Safety:** Good documentation in healthcare IT can literally save lives
+
+---
+
+### 🎓 What I Learned on This Journey
+
+**Technical Skills:**
+- HL7 v2.x is both elegant and frustrating (those pipe delimiters!)
+- XSLT is powerful once you understand the paradigm shift from procedural thinking
+- Mirth Connect is industry-standard for good reason (but JavaScript transformers > XSLT for complex logic)
+- Customer-facing communication matters as much as technical skills
+
+**Career Skills:**
+- Rapid promotion comes from solving problems others avoid
+- Being the "go-to person" for a critical technology is valuable
+- Documentation and knowledge sharing build trust with teams
+- Bridging clinical and technical worlds is a rare and valuable skill
+
+**Life Balance:**
+- Burnout is real - sustainable pace beats heroic sprints
+- Learning new skills requires structured time, not just "whenever I have time"
 
 ---
 
 <div align="center">
 
-**"Document today what you'll need to remember tomorrow."**
+**"Build tools that solve real problems. Document so others can learn. Share knowledge that helps the community."**
 
-Last Updated: [11/29/2025]  
-Profile Version: 2.0
+Last Updated: December 23, 2024  
+Profile Version: 3.0
 
 </div>
