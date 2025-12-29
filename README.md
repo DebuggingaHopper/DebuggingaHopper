@@ -272,14 +272,14 @@ Security:          ███████████████░░░░░ 
 
 > **For Future Me:** Track progress and goals
 
-#### **2024 Accomplishments:**
+#### **2024 / 2025 Accomplishments:**
 - [x] Established GitHub presence with professional README
 - [x] Published 3 completed projects (NEST, SPOT, Printer Queue Manager)
 - [x] Managed 27 production Epic HL7 interfaces
 - [x] Provided tier 1-3 support across 50+ facilities
 - [x] Led successful ARIA-to-Epic migration with zero downtime
 
-#### **2025 Goals:**
+#### **2026 Goals:**
 - [ ] Launch technical blog/portfolio site (Q1 2025)
 - [ ] Write 6 technical blog posts on healthcare IT integration
 - [ ] Complete FHIR fundamentals training
